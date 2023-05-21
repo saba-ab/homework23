@@ -1,0 +1,7 @@
+{
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.vscode-pylance"
+  },
+  "python.formatting.provider": "none",
+  "python.analysis.typeCheckingMode": "basic"
+}

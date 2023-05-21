@@ -1,9 +1,14 @@
-let string = "epa";
-let number = 35;
-let boolean = true;
-let object = null;
-let undefined;
+let streetName = "dolidze";
+let streetNumber = 35;
+let busLine = false;
+let traffic = null;
+let carQuantity;
 
+console.log(typeof streetName);
+console.log(typeof streetNumber);
+console.log(typeof busLine);
+console.log(typeof traffic);
+console.log(typeof carQuantity);
 let age = 22;
 let year = 2023;
 
